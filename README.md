@@ -2,6 +2,8 @@
 
 > A RAG-powered document Q&A system built with Streamlit, ChromaDB, and Groq LLM.
 
+🌐 **Live Demo:** [ai-knowledge-assistant.streamlit.app](https://ai-knowledge-assistant-ftdk2vk8mvushqrz7nutn7.streamlit.app/)
+
 Upload PDF, TXT, or Markdown documents and ask questions — the AI will answer **only** based on your documents with source citations.
 
 ---
