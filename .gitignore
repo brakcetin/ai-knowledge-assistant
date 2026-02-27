@@ -1,0 +1,36 @@
+# Environment variables (contains API keys!)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# ChromaDB persistent storage
+data/chroma_db/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent planning files (remove before submission if desired)
+agents/
+PROJECT_PLAN.md
+PROJECT_REQUIREMENTS.md
