@@ -19,7 +19,24 @@ Upload PDF, TXT, or Markdown documents and ask questions — the AI will answer 
 
 ---
 
-## 🚀 Quick Start
+## � Screenshots
+
+### Single Document Q&A
+![Example Q&A](assets/example-1.png)
+
+### Multi-File Upload
+![Multi-file upload step 1](assets/exaple-multiple-files-1.png)
+![Multi-file upload step 2](assets/example-multiple-files-2.png)
+
+### Hallucination Guard — "I Don't Know"
+![Knowledge not in file](assets/knowledge-not-in-the-file.png)
+
+### No Document Validation
+![No document warning](assets/no-document.png)
+
+---
+
+## �🚀 Quick Start
 
 ### Prerequisites
 - **Python 3.10+**
