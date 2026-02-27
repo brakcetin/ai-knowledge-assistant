@@ -29,8 +29,8 @@ Upload PDF, TXT, or Markdown documents and ask questions — the AI will answer 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/attimo-intern-rag.git
-cd attimo-intern-rag
+git clone https://github.com/brakcetin/ai-knowledge-assistant.git
+cd ai-knowledge-assistant
 
 # 2. Create virtual environment
 python -m venv venv
